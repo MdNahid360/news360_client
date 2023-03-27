@@ -37,3 +37,8 @@
 .read-the-docs {
   color: #888;
 }
+
+.bracking-news{
+  clip-path: polygon(0 0, 88% 0, 100% 100%, 0% 100%);
+
+}
